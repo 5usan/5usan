@@ -32,12 +32,14 @@ Open to **Software Engineer** and **AI/ML Engineer** roles.
 
 ### Technical skills
 
-```
-ML / DL          PyTorch · HuggingFace Transformers · scikit-learn · CUDA · Jupyter
-Graph ML         Graph Neural Networks (GNNs) · Knowledge Graphs · Neo4j · RDFLib · NetworkX
-LLMs & NLP       RAG · Embedding Models · BERT · Word2Vec · Federated Fine-tuning
-Backend & Infra  Python · FastAPI · Docker · Singularity · REST APIs · Linux
-Frontend         JavaScript · React
+```python
+skills = {
+    "ml_dl"      : ["PyTorch", "HuggingFace Transformers", "scikit-learn", "CUDA"],
+    "graph_ml"   : ["Graph Neural Networks", "Neo4j", "RDFLib", "NetworkX"],
+    "llms_rag"   : ["BERT", "Word2Vec", "RAG pipelines", "Federated Fine-tuning"],
+    "infra"      : ["FastAPI", "Docker", "Singularity", "REST APIs", "Linux"],
+    "languages"  : ["Python", "JavaScript", "SQL"],
+}
 ```
 
 ---
