@@ -35,12 +35,16 @@ Open to **Software Engineer** and **AI/ML Engineer** roles.
 ```python
 skills = {
     "languages"   : ["Python", "JavaScript/TypeScript", "SQL", "HTML/CSS/SCSS"],
-    "ai_ml"       : ["PyTorch", "Scikit-Learn", "Transformers", "Hugging Face", "YOLO", "OpenCV", "Pandas", "LangChain", "LlamaIndex", "RAGAS"],
-    "llms_rag"    : ["RAG", "GraphRAG", "Multimodal RAG", "Fine-Tuning (LoRA/QLoRA)", "Computer Vision", "Neural Networks", "GNNs", "MCP", "Prompt Engineering"],
+    "ai_ml"       : ["PyTorch", "Scikit-Learn", "Transformers", "Hugging Face", "YOLO", "OpenCV", "Pandas", "LangChain",
+                    "LlamaIndex", "RAGAS"],
+    "llms_rag"    : ["RAG", "GraphRAG", "Multimodal RAG", "Fine-Tuning (LoRA/QLoRA)", "Computer Vision",
+                    "Neural Networks", "GNNs", "MCP", "Prompt Engineering"],
     "knowledge"   : ["RDF/OWL", "SPARQL", "RDFLib", "Protege", "Apache Jena", "Knowledge Graphs", "Ontology Design Patterns"],
-    "databases"   : ["Neo4j", "PostgreSQL", "MySQL", "MongoDB", "Redis", "CUDA", "SLURM", "Singularity", "Docker", "Linux", "AWS"],
+    "databases"   : ["Neo4j", "PostgreSQL", "MySQL", "MongoDB", "Redis", "CUDA", "SLURM", "Singularity", "Docker",
+                    "Linux", "AWS"],
     "web_apis"    : ["FastAPI", "Django", "ReactJS", "NodeJS", "GraphQL", "REST API", "ORMs (Prisma, Mongoose)"],
-    "tools"       : ["Git", "VS Code", "Jupyter", "Protege", "yEd", "ChatGPT", "Gemini", "Claude", "ComfyUI", "AI-assisted Coding"],
+    "tools"       : ["Git", "VS Code", "Jupyter", "Protege", "yEd", "ChatGPT", "Gemini", "Claude", "ComfyUI",
+                    "AI-assisted Coding"],
 }
 ```
 
